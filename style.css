@@ -1,25 +1,70 @@
 ul{
     list-style: none;
+
 }
 .header__inner{
-    display: flex;
+        display: flex;
     justify-content: space-between;
     align-items: center;
     min-height: 80px;
+    margin-left: 553px;
 }
 .menu__list{
     display: flex;
-    background-color: ;
     align-items: center;
-    gap: 0 65px;
+    gap: 30px 60px;
 }
 .top__inner{
     background-color: rgba(47, 48, 58, 1);
+    width: 1920px;
+    height: 600px;
+    top: 80px;
 }
 .title{
+    width: 1920px;
+    height: 600px;
    color: white;
    text-align: center;
+  
 }
 .butt{
-    text-align: center;
+        
+
+ color: white;
+        width: 216px;
+        height: 50px;
+        top: 430px;
+        left: 692px;
+        transform: translateX(850px);
+        border-radius: 4px;
+        background-color: rgba(33, 150, 243, 1);
+
+      }
+   
+
+.title {
+    font-size: 60px;
+    height: 120px;
+    top: 280px;
+    left: 452px;
+    transform: translateX(-140px);
+    margin-left: 6%;
+    text-decoration: none;
+    padding-top: 160px; 
+    }
+    .cards{
+text-align: center;
+display: flex;
+gap: 30px 60px;
+padding: 75px 215px;
+    }
+.galery-content{
+    align-items: center;
+    display: flex;
+    gap: 30px;
+    transform: translateX(350px);
+   
+}
+.h2t{
+    margin-left: 800px;
 }
