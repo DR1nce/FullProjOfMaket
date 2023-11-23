@@ -1,0 +1,25 @@
+ul{
+    list-style: none;
+}
+.header__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 80px;
+}
+.menu__list{
+    display: flex;
+    background-color: ;
+    align-items: center;
+    gap: 0 65px;
+}
+.top__inner{
+    background-color: rgba(47, 48, 58, 1);
+}
+.title{
+   color: white;
+   text-align: center;
+}
+.butt{
+    text-align: center;
+}
