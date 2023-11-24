@@ -2,6 +2,25 @@ ul{
     list-style: none;
 
 }
+.menu__link {
+    color: rgba(33, 33, 33, 1);
+  }
+  
+a[href^="mailto:"] {
+    color: rgba(33, 150, 243, 1);
+}
+
+.menu__linkk{
+    color: rgba(33, 150, 243, 1);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
 .header__inner{
         display: flex;
     justify-content: space-between;
@@ -13,6 +32,13 @@ ul{
     display: flex;
     align-items: center;
     gap: 30px 60px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+    font-family:'Times New Roman', Times, serif;
+
 }
 .top__inner{
     background-color: rgba(47, 48, 58, 1);
